@@ -1,4 +1,5 @@
 # Itessentials
-Day1(07/11/2023):Jira, API,SDLC
+Day1(07/11/2023): Jira, API,SDLC
 Day2(07/12/2023): Sharepoint, Power BI
-Day3(07/13/2023): Linux, Testing
+Day3(07/13/2023): Linux, Testing (Partial)
+Day4(07/14/2023): Testing, Database
